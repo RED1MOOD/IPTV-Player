@@ -1,0 +1,6 @@
+{
+  "name": "IPTV Player",
+  "description": "Professional IPTV & Live Streaming player supporting Xtream API, EPG, and high-quality video controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
