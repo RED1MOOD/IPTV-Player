@@ -5,11 +5,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
-    <!-- Privacy attribution tags to resolve AppOps attributionTag not declared in manifest warnings -->
-    <attribution android:tag="default" android:label="@string/app_name"/>
-    <attribution android:tag="media" android:label="@string/app_name"/>
-    <attribution android:tag="media3" android:label="@string/app_name"/>
-    <attribution android:tag="exoplayer" android:label="@string/app_name"/>
+
 
     <application
         android:allowBackup="true"
